@@ -1,0 +1,64 @@
+<!DOCTYPE html> 
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width-device-width, intial-scale=1.0">
+        <title>Quiz App </title>
+        <!-- fontaawesome icons cdn -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+       <!-- custom css --> 
+       <link rel="stylesheet" href="main.css"> 
+    </head>
+    <body class = "flex">
+		<audio autoplay id="portalMusic" loop>
+			<source src="./res/musicPortal.mp3" type="audio/mpeg">
+			Your browser don't support the audio :/
+		</audio>
+		<audio id="correctSoundEffect">
+			<source src="./res/correct.mp3" type="audio/mpeg">
+		</audio>
+		<video id="jumpscare">
+		</video>
+        <div class = "wrapper">
+            <div class = "quiz-head">
+                <h1 class = "quiz-title">Quiz Game</h1>
+                <div class = "quiz-score flex">
+                    <div id="progress-bar-container">
+                        <span id="progress-bar">0 / 23</span>
+				    </div>
+                </div>
+            </div>
+            <div class = "quiz-body">
+				<h2 class = "quiz-question" id="question"><!--What is this?<br> <span class="category">Enem</span--></h2>
+				<ul class = "quiz-options">
+                    <li class = "selected">Bem-vindos(as) ao app do quiz, jogue agora ou sofrerá mais do que você já sofre.</li>
+                    <!-- <li>2.Tell me.</li>
+                    <li>3.Tell me.</li>
+                    <li>4.Tell me.</li> --->  
+                </ul>
+                <div id = "result">
+                  <!-- result here -->  
+                </div>
+            </div>           
+
+            <div class = "quiz-foot">
+                <body>
+                    <div class="question">
+                    </div>
+                    <div class="alternatives">
+                    </div>
+					<button type = "button" id="play-btn">PLAY</button>
+					<!--
+                    <div class="correta">
+						<button id="next-btn">próximo</button>
+                    </div> 
+					-->
+					<button type = "button" id="close-button">SAIR</button>
+			  </body>
+
+            </div>
+        </div>
+		<script src="main.js"></script>
+    </body>
+</html>

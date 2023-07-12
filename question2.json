@@ -1,0 +1,127 @@
+[
+
+{
+    "questao": "Cinco pessoas responderam informando preços por hora trabalhada, gasto diário com transporte e tempo necessário para conclusão do serviço, conforme valores apresentados no quadro",
+    "alternativas": [
+      "120 x 8 + 0 = 960",
+      "180 x 6 + 0 = 1080", 
+      "170 x 6 + 20 = 1020 + 20 = 1040", 
+      "110 x 9 + 10 = 990 + 10 = 1000",
+      "110 x 10 + 0 = 1100 + 0 = 1100"
+    ],
+    "correta": 1
+  },
+  {
+    "questao": "A forma geométrica da superfície cujas arestas estão representadas na Figura 2 é",
+    "alternativas": [
+      "tetraedro",
+      "pirâmide retangular", 
+      "tronco de piramide retangular", 
+      "prisma quadrangular reto",
+      "prisma triangular reto"
+    ],
+    "correta": 5
+  },
+  {
+    "questao": "Um sinalizador de trânsito tem o formato de um cone circular reto. O sinalizador precisa ser revestido externamente com adesivo fluorescente, desde sua base (base do cone) até a metade de sua altura, para sinalização noturna. O responsável pela colocação do adesivo precisa fazer o corte do material de maneira que a forma do adesivo corresponda exatamente à parte da superfície lateral a ser revestida. Qual deverá ser a forma do adesivo? ",
+    "alternativas": [
+      "A",
+      "B", 
+      "C", 
+      "D",
+      "E"
+    ],
+    "correta": 5
+  },
+  {
+    "questao": "Se o percurso de Dean Karnazes fosse também em uma pista reta, qual seria a escala entre a pista feita pelo professor e a percorrida pelo atleta?",
+    "alternativas": [
+      "1:700",
+      "1:7 000", 
+      "1:70 000", 
+      "1:70 000",
+      "1:7 000 000"
+    ],
+    "correta": 4
+  },
+  {
+    "questao": "O quadro seguinte mostra o desempenho de um time de futebol no último campeonato. A coluna da esquerda mostra o número de gols marcados e a coluna da direita informa em quantos jogos o time marcou aquele número de gols",
+    "alternativas": [
+      "X = Y < Z",
+      "Z < X = Y", 
+      "Y < Z < X", 
+      "Z < X < Y",
+      "Z < Y < X"
+    ],
+    "correta": 5
+  },
+  {
+    "questao": "As cidades de Quito e Cingapura encontram-se próximas à linha do equador e em pontos diametralmente opostos no globo terrestre. Considerando o raio da Terra igual a 6370 km, pode-se afirmar que um avião saindo de Quito, voando em média 800 km/h, descontando as paradas de escala, chega a Cingapura em aproximadamente",
+    "alternativas": [
+      "16 horas",
+      "20 horas", 
+      "25 horas", 
+      "32 horas",
+      "36 horas"
+    ],
+    "correta": 3
+  },
+  {
+    "questao": "Considerando o modelo acima descrito, se o público-alvo é de 44.000 pessoas, então a máxima rapidez de propagação ocorrerá quando o boato for conhecido por um número de pessoas igual a",
+    "alternativas": [
+      "11.000",
+      "22.000", 
+      "33.000", 
+      "38.000",
+      "44.000"
+    ],
+    "correta": 2
+  },
+  {
+    "questao": "A meia-vida do antibiótico amoxicilina é de 1 hora. Assim, se uma dose desse antibiótico for injetada às 12h em um paciente, o percentual dessa dose que restará em seu organismo às 13h30min será aproximadamente de",
+    "alternativas": [
+      "10%",
+      "15%", 
+      "25%", 
+      "35%",
+      "50%"
+    ],
+    "correta": 4
+  },
+  {
+    "questao": "O deslocamento descrito por João foi: mova-se pela pirâmide, sempre em linha reta, do ponto A ao ponto E, a seguir do ponto E ao ponto M, e depois de M a C. O desenho que Bruno deve fazer é",
+    "alternativas": [
+      "A",
+      "B", 
+      "C", 
+      "D",
+      "E"
+    ],
+    "correta": 3
+  },
+  {
+    "questao": "Estimativas indicam que, com a adição de 4% de biodiesel ao dísel, serão consumidos 925 milhões de litros de biodiesel no segundo semestre de 2009. Considerando-se essa estimativa, para o mesmo volume da mistura final dísel/biodiesel consumida no segundo semestre de 2009, qual seria o consumo de biodiesel com a adição de 3%?",
+    "alternativas": [
+      "27,75 milhões de litros",
+      "37,00 milhões de litros", 
+      "231,25 milhões de litros", 
+      "693,75 milhões de litros",
+      "888,00 milhões de litros"
+    ],
+    "correta": 4
+  },
+  {
+    "questao": "κείμενο μας επιτρέπει συμπεράνουμε ότι η γεωργία άρχισε ασκείται περίπου",
+    "alternativas": [
+      "365",
+      "460", 
+      "900", 
+      "10000",
+      "460000"
+    ],
+    "correta": 4
+  }
+
+
+
+]
